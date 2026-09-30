@@ -1,0 +1,2 @@
+# GiantMIDI-Piano Failure Quarantine Ledger
+# Format: filename \t timestamp \t error_message
